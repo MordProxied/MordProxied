@@ -1,0 +1,6 @@
+May 23:
+-Changed the standard for narrated interactions. (periods at the end of sequences)
+-Implemented inventory system, with included custom functions for adding, removing, and checking
+-Implemented variables for items in the game in order to add attributes afterwards
+-Worked out some bugs in the "impoverished" path, where "Print" should've been "print".
+-Revised some dialogue
